@@ -1,0 +1,28 @@
+h1 {
+    color: green;
+    text-align: center;
+}
+ul{
+
+    list-style:circle;
+}
+li {
+margin-bottom: 10px;
+
+}
+
+.site-content {
+
+    width: 900px;
+    margin-left: 100px;
+}
+
+#best-movie {
+
+    color:gold;
+}
+
+a {
+    display: block;
+    background-color: aqua;
+}
